@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "React JS",
+    "imgSrc": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"
+  },
+  {
+    "id": 2,
+    "name": "ReactNative",
+    "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png"
+  },
+  {
+    "id": 3,
+    "name": "Nuxt JS",
+    "imgSrc": "https://nuxt.com/assets/design-kit/icon-green.svg"
+  },
+  {
+    "id": 4,
+    "name": "Pinia",
+    "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Pinialogo.svg"
+  },
+  {
+    "id": 5,
+    "name": "Nest JS",
+    "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg"
+  },
+  {
+    "id": 6,
+    "name": "Laravel",
+    "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png"
+  },
+  {
+    "id": 7,
+    "name": "PostgreSQL",
+    "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png"
+  },
+  {
+    "id": 8,
+    "name": "Python",
+    "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"
+  },
+  {
+    "id": 9,
+    "name": "Arduino",
+    "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Arduino_IDE_logo.svg/2048px-Arduino_IDE_logo.svg.png"
+  },
+  {
+    "id": 10,
+    "name": "Adobe Photoshop",
+    "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png"
+  },
+  {
+    "id": 11,
+    "name": "Adobe Illustrator",
+    "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1200px-Adobe_Illustrator_CC_icon.svg.png"
+  },
+  {
+    "id": 12,
+    "name": "Corel Draw",
+    "imgSrc": "https://i.imgur.com/7GLRj4o.png"
+  }
+]

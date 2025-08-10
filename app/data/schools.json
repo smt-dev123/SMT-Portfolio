@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "image": "https://schoolscambodia.com/wp-content/uploads/2024/12/AF1QipNk6x4chxHmh2tLLutDNctt4x4aO2J2F-KK1mazw1920-h1080-k-no.jpeg",
+    "school": "Angkor University",
+    "description": "Angkor University is a higher education and research institution in Siem Reap Province, Cambodia. The university is composed of seven academic faculties and three centers."
+  },
+  {
+    "id": 2,
+    "image": "https://i.ytimg.com/vi/WczflbS0Kzk/maxresdefault.jpg",
+    "school": "Hun Sen Prasat Bakong High School",
+    "description": "Hun Sen Prasat Bakong High School is a secondary educational institution located in Cambodia, specifically in the Siem Reap province. Named after Hun Sen, the Prime Minister of Cambodia, the school aims to provide quality education to students in the region. The school typically offers a variety of academic programs and may focus on preparing students for higher education and vocational training."
+  },
+  {
+    "id": 3,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2K93NrUarYYGbBHHxUi0_tlgxgCeVGgjEKHY7LLYs-33L36WtI9kxMnLobZagn_5eQbo&usqp=CAU",
+    "school": "Hun Sen Rolous Secondary School",
+    "description": "Hun Sen Rolous Secondary School is an educational institution located in Cambodia, named after former Prime Minister Hun Sen. It provides secondary education and aims to improve local educational standards. The school is part of the broader efforts to enhance education in the region."
+  },
+  {
+    "id": 4,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzohxznfBk8MzOjQadbb1pGuwEhYpX9SBhzw&s",
+    "school": "Hun Sen Rolous Primary School",
+    "description": "Hun Sen Rolous Primary School is an educational institution located in Cambodia, named after former Prime Minister Hun Sen. It provides primary education and aims to improve local educational standards. The school is part of the broader efforts to enhance education in the region."
+  }
+]
