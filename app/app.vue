@@ -37,9 +37,9 @@ useHead({
     },
     {
       property: "og:image",
-      content: "https://yourportfolio.com/images/og-image.jpg",
+      content: "https://smt-portfolio-kh.vercel.app/images/og-image.jpg",
     },
-    { property: "og:url", content: "https://yourportfolio.com" },
+    { property: "og:url", content: "https://smt-portfolio-kh.vercel.app" },
     { property: "og:type", content: "website" },
 
     // Twitter Card
@@ -54,7 +54,7 @@ useHead({
     },
     {
       name: "twitter:image",
-      content: "https://yourportfolio.com/images/twitter-image.jpg",
+      content: "https://smt-portfolio-kh.vercel.app/images/twitter-image.jpg",
     },
   ],
   // Canonical URL
@@ -64,7 +64,7 @@ useHead({
       type: "image/x-icon",
       href: logo,
     },
-    { rel: "canonical", href: "https://yourportfolio.com" },
+    { rel: "canonical", href: "https://smt-portfolio-kh.vercel.app" },
   ],
 });
 </script>
